@@ -1,6 +1,5 @@
 import sys
 sys.setrecursionlimit(3000)
-# open our input file and put each line into an array
 input_file = open('input.txt', 'r')
 input_arr=[]
 for n in input_file:
